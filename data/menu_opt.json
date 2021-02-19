@@ -40,6 +40,11 @@
             "route" : "forms",
             "icon"  : "attachment",
             "text"  : "Forms Page"
+        },
+        {
+            "route" : "products",
+            "icon"  : "storefront",
+            "text"  : "Products Page"
         }
     ]
 }

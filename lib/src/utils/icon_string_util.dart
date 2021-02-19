@@ -9,6 +9,8 @@ final _icons = <String, IconData>{
   'slideshow': Icons.slideshow,
   'list': Icons.list,
   'attachment': Icons.attachment,
+  'http': Icons.http,
+  'storefront': Icons.storefront,
 };
 
 Icon getIcon(String iconName) {
